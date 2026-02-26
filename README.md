@@ -20,5 +20,5 @@
 </div>
 <footer>
     <img width="100%" height="90px"
-        src="https://i.workana.com/wp-content/uploads/2020/03/footer-glosario-workana-850x400.jpg" alt="" srcset="">
+        src="https://i.pinimg.com/736x/cf/d3/e8/cfd3e8786d3cb77f3c8218ce33aee8da.jpg" alt="" srcset="">
 </footer>
