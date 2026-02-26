@@ -20,5 +20,5 @@
 </div>
 <footer>
     <img width="100%" height="90px"
-        src="https://i.pinimg.com/736x/cf/d3/e8/cfd3e8786d3cb77f3c8218ce33aee8da.jpg" alt="" srcset="">
+        src="https://i.pinimg.com/1200x/d8/a5/3c/d8a53cc2559e96d17b42bb0f7ba1a15f.jpg" alt="" srcset="">
 </footer>
