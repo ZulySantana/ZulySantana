@@ -1,16 +1,24 @@
-## Hi there 👋
-
-<!--
-**ZulySantana/ZulySantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div aling="center">
+    <img width="100%" src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" alt="" srcset="">
+</div>
+<div aling="center">
+    <h1>Hola mi nombre es Zuly Santana <img width="30px"
+            src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" alt="" srcset="">
+    </h1>
+</div>
+<div aling="center">
+    <p>
+        Soy estudiante de Codificación de Software con una fuerte orientación hacia la creación de soluciones
+        tecnológicas que generen impacto real en los negocios digitales. Me apasiona el desarrollo web y el aprendizaje
+        constante de nuevas herramientas que me permitan diseñar aplicaciones funcionales, intuitivas y escalables. Me
+        destaco por mi pensamiento lógico, capacidad de adaptación y enfoque en la resolución de problemas, así como por
+        mi habilidad para trabajar en equipo y gestionar proyectos de manera autónoma. Actualmente me encuentro
+        desarrollando proyectos enfocados en entornos digitales y emprendimientos online, aplicando buenas prácticas de
+        programación y metodologías ágiles. Mi objetivo es aportar valor a las organizaciones a través del desarrollo de
+        soluciones eficientes, innovadoras y orientadas a resultados.
+    </p>
+</div>
+<footer>
+    <img width="100%" height="90px"
+        src="https://i.workana.com/wp-content/uploads/2020/03/footer-glosario-workana-850x400.jpg" alt="" srcset="">
+</footer>
